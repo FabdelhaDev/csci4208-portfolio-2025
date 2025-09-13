@@ -3,9 +3,6 @@
 ## External Repo
 https://github.com/FabdelhaDev/csci4208-portfolio-2025-project01
 
-## Live URL
-https://yourusername.github.io/project-01/
-
 ## How to Demo:
 Visit the design document within the project-01 repo for a walkthrough guide.
 
