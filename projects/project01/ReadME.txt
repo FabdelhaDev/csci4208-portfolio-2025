@@ -1,4 +1,4 @@
-# Project 01: My Cool Web App
+# Project 01: Minecraft HTML Game
 
 ## External Repo
 https://github.com/FabdelhaDev/csci4208-portfolio-2025-project01
