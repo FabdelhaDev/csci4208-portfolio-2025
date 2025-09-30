@@ -1,0 +1,3 @@
+Hello! This is a test of Phaser and JS to create a dodger game, with the original code authored by Ted Holmberg, and now written by Fares Abdelhamed!
+
+To run, start a http-server and run local host and you will see a game where you can run around and attack enemies, who will also attempt to attack you! There may also be powerups that will spawn that will enlarge your projectiles or slay enemies! Try and get a top score, it'll be recorded!
