@@ -2,9 +2,9 @@
 
 > Personal progress page for CSCI4208. Keep this file updated as you complete labs, projects, and capstone milestones.
 
-- **Name:** <Your Name>
-- **Project Board (Project v2):** <paste your board URL here>
-- **Live Portfolio (GitHub Pages):** <https://USERNAME.github.io/REPO/>
+- **Name:** Fares Abdelhamed
+- **Project Board (Project v2):** <https://github.com/users/FabdelhaDev/projects/2>
+- **Live Portfolio (GitHub Pages):** <https://FabdelhaDev.github.io/csci4208-portfolio-2025>
 
 ---
 
@@ -26,11 +26,14 @@
 <!-- STATUS:START -->
 | Item | Key | Status |
 |---|---|---|
-| Capstone-01 — Find a Team [#5](https://github.com/scalemailted/csci4208-portfolio-2025/issues/5) | `capstone-01` | open |
-| Lab-01 — HTML-first Interactive Game (minimal JS) [#1](https://github.com/scalemailted/csci4208-portfolio-2025/issues/1) | `lab-01` | open |
-| Lab-02 — CSS: Crash Course [#2](https://github.com/scalemailted/csci4208-portfolio-2025/issues/2) | `lab-02` | open |
-| Lab-03 — Bootstrap: Responsive Portfolio [#3](https://github.com/scalemailted/csci4208-portfolio-2025/issues/3) | `lab-03` | open |
-| Project-01 — Interactive Game in HTML & CSS [#4](https://github.com/scalemailted/csci4208-portfolio-2025/issues/4) | `project-01` | open |
+| Capstone-01 — Find a Team [#5](https://github.com/FabdelhaDev/csci4208-portfolio-2025/issues/5) | `capstone-01` | closed |
+| Lab-01 — HTML-first Interactive Game (minimal JS) [#1](https://github.com/FabdelhaDev/csci4208-portfolio-2025/issues/1) | `lab-01` | closed |
+| Lab-02 — CSS: Crash Course [#2](https://github.com/FabdelhaDev/csci4208-portfolio-2025/issues/2) | `lab-02` | closed |
+| Lab-03 — Bootstrap: Responsive Portfolio [#3](https://github.com/FabdelhaDev/csci4208-portfolio-2025/issues/3) | `lab-03` | closed |
+| Lab-04 — JavaScript Basics: Hi–Lo Game (MVP → MVC) [#6](https://github.com/FabdelhaDev/csci4208-portfolio-2025/issues/6) | `lab-04` | open |
+| Lab-05 — JavaScript OOP + Phaser: Dodger Game [#7](https://github.com/FabdelhaDev/csci4208-portfolio-2025/issues/7) | `lab-05` | open |
+| Project-0 — Set up Repo, Project Board, Actions & Pages [#8](https://github.com/FabdelhaDev/csci4208-portfolio-2025/issues/8) | `project-00` | open |
+| Project-01 — Interactive Game in HTML & CSS [#4](https://github.com/FabdelhaDev/csci4208-portfolio-2025/issues/4) | `project-01` | closed |
 <!-- STATUS:END -->
 
 
@@ -100,4 +103,5 @@
 ---
 
 <sub>Last updated: <!-- yyyy-mm-dd --> </sub>
+
 

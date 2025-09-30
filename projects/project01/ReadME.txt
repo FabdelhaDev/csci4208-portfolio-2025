@@ -1,10 +1,10 @@
-# Project 01: My Cool Web App
+# Project 01: Minecraft HTML Game
 
 ## External Repo
 https://github.com/FabdelhaDev/csci4208-portfolio-2025-project01
 
 ## Live URL
-https://yourusername.github.io/project-01/
+https://FabdelhaDev.github.io/csci4208-portfolio-2025-project01
 
 ## How to Demo:
 Visit the design document within the project-01 repo for a walkthrough guide.
